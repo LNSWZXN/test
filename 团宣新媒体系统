@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+      <title>团宣新媒体管理系统</title>
+      <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css">
+      <script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>
+      <script src="http://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script><!--这三句话可放在head文件里也可以放在最后面-->
+  <link   href="http://jwc.bjtu.edu.cn/"> 
+  <link   href="<link   href="http://jwc.bjtu.edu.cn/"> 
+</head>
+<body>
+<div class="header">
+  <div class="headerleft"><a href="/" title="团宣新媒体管理系统-请登录" border="0"/></a></div>
+	<div class="headerright"><img src="http://jwc.bjtu.edu.cn/" alt=您好，请登录" width="460" height="60" /></div>
+</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6">.col-md-6</div>
+    <div class="col-md-6">.col-md-6</div>
+  </div>
+</div>
+<h1>团宣新媒体管理系统——————</h1>
+<h2>呵呵哒</h2>
+</body>
+</html>
